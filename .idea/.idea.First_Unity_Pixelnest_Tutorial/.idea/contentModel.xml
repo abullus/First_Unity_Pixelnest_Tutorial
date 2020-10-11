@@ -8,7 +8,9 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="EnemyScript.cs" t="Include" />
+          <e p="GameOverScript.cs" t="Include" />
           <e p="HealthScript.cs" t="Include" />
+          <e p="MenuScript.cs" t="Include" />
           <e p="MoveScript.cs" t="Include" />
           <e p="PlayerScript.cs" t="Include" />
           <e p="RendererExtensions.cs" t="Include" />
