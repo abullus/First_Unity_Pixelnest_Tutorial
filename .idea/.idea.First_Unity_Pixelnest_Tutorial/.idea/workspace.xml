@@ -47,9 +47,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SpecialEffectsHelperScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HealthScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WeaponScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MenuScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameOverScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" />
       </list>
     </option>
   </component>
